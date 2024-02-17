@@ -21,7 +21,8 @@ ____________________________________________________________________________
     GENERAL-INFO                                                           
     - Python/C#/PHP                                                        
     - backend dev                                                          
-    - game dev                                                             
+    - game dev
+    - web dev                                                             
     - streaming/vrchat/tiktok                                              
 ____________________________________________________________________________
     FAV-TRACKS-RN                                                            
