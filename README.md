@@ -26,11 +26,12 @@ ____________________________________________________________________________
     - streaming/vrchat/tiktok                                              
 ____________________________________________________________________________
     FAV-TRACKS-RN                                                            
-    <HALLEY LABS...............................levällään>    
-    <CORE....................................Adobe CS4 and CS5 kg v1.1>    
-    <Mac Quayle............................ 1.3_5-da3m0nsneverstop.caf>    
-    <phimtown + fauxx............................spinnin round my head>    
-    <G.L.O.S.S...........................................Outcast Stomp>    
+    HALLEY LABS - levällään
+    HALLEY LABS - Calculated Corruption   
+    CORE - Adobe CS4 and CS5 kg v1.1  
+    Mac Quayle - 1.3_5-da3m0nsneverstop.caf    
+    phimtown + fauxx - spinnin round my head    
+    G.L.O.S.S - Outcast Stomp
 ____________________________________________________________________________
     EZ-REF (TM)                                                            
     <ASCII banner.....................textkool.com (font: ANSI Shadow)>    
